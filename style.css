@@ -12,7 +12,7 @@
 }
 
 .parallax{
-	background-image: url("img/fish.jpg");
+	background-image: url("img/fish.JPG");
 	min-height: 600px; 
 	background-attachment: fixed;
 	background-position: center;
@@ -20,7 +20,7 @@
 	background-size: cover;
 }
 .parallax2{
-	background-image: url("img/pinkCoral.jpg");
+	background-image: url("img/pinkCoral.JPG");
 	min-height: 600px; 
 	background-attachment: fixed;
 	background-position: center;
